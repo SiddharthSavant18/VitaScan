@@ -6,7 +6,7 @@ The product can support early health-risk detection and real-time monitoring in 
 VitaScan is in the prototype stage, with ongoing work focused on improving accuracy and adding advanced parameters.
 
 
-#### Note : when you run the exe file, the camera quality determines the accuracy of the parameter value.
+#### Note : when you run the exe file, the camera quality determines the accuracy of the parameter value. Also, Executable File is Windows Compatible Only
 
 
 ### Minimum System Requirements :
