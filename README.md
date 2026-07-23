@@ -7,3 +7,13 @@ VitaScan is in the prototype stage, with ongoing work focused on improving accur
 
 
 #### Note : when you run the exe file, the camera quality determines the accuracy of the parameter value.
+
+
+### Minimum System Requirements :
+
+Windows 10 64-bit
+Intel i3 8th Gen or better
+8 GB RAM
+720p webcam
+1280 × 720 display
+atleast 500MB free storage
