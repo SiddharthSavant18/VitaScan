@@ -11,9 +11,9 @@ VitaScan is in the prototype stage, with ongoing work focused on improving accur
 
 ### Minimum System Requirements :
 
-Windows 10 64-bit
-Intel i3 8th Gen or better
-8 GB RAM
-720p webcam
-1280 × 720 display
-atleast 500MB free storage
+* Windows 10 64-bit
+* Intel i3 8th Gen or better
+* 8 GB RAM
+* 720p webcam
+* 1280 × 720 display
+* atleast 500MB free storage
